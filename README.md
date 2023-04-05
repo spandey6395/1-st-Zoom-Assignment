@@ -5,9 +5,9 @@ Camera API
 This is a RESTful API for managing cameras and camera networks.
 
 Technologies used
-Node.js
-Express.js
-MongoDB
+Node.js,
+Express.js,
+MongoDB,
 Mongoose
 
 
