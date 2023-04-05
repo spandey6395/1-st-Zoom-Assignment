@@ -2,9 +2,13 @@
 
 
 Camera API
+
 This is a RESTful API for managing cameras and camera networks.
 
+
 Technologies used
+
+
 Node.js,
 Express.js,
 MongoDB,
@@ -24,6 +28,7 @@ Usage
 The following endpoints are available:
 
 Cameras
+
 `GET /cameras` - Get all cameras
 
 `POST /cameras` - Create a new camera
@@ -39,6 +44,8 @@ Cameras
 
 
 Camera Networks
+
+
 `GET /networks` - Get all camera networks
 
 `POST /networks` - Create a new camera network
